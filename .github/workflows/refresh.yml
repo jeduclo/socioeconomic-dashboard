@@ -1,0 +1,19 @@
+# Asks Vercel to rebuild the site (and so re-download all data) every weekday morning.
+# Needs a repository secret named VERCEL_DEPLOY_HOOK (see DEPLOY_VERCEL.md, step 9).
+name: Refresh data on Vercel
+
+on:
+  schedule:
+    - cron: "17 11 * * 1-5" # 07:17 Toronto time (EDT), weekdays
+  workflow_dispatch:
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Vercel deploy hook
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then echo "Add the VERCEL_DEPLOY_HOOK secret first"; exit 1; fi
+          curl -fsS -X POST "$HOOK"

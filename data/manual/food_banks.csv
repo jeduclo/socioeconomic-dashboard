@@ -1,0 +1,51 @@
+date,region,value,unit,source
+2019-03-01,Canada,1084386,Visits in March,https://content.foodbankscanada.ca/wordpress/2025/07/HungerCount-2019_FINAL.pdf
+2021-03-01,Canada,1303997,Visits in March,https://fbcblobstorage.blob.core.windows.net/wordpress/2022/02/50200_FBC_HungerCount2021_EN_final_embargoed_20211007.pdf
+2022-03-01,Canada,1462795,Visits in March,https://www.newswire.ca/news-releases/high-inflation-and-broken-social-safety-net-drive-food-bank-use-up-35-food-banks-canada-releases-hungercount-2022-report-801171839.html
+2023-03-01,Canada,1935911,Visits in March,https://foodbankscanada.ca/press-releases/press-release-hungercount-2023/
+2024-03-01,Canada,2059636,Visits in March,https://content.foodbankscanada.ca/wordpress/2024/10/hungercount-2024-en.pdf
+2025-03-01,Canada,2165766,Visits in March,https://foodbankscanada.ca/press-releases/canadas-2025-hungercount-shows-the-cost-of-inaction/
+2019-03-01,British Columbia,124713,Visits in March,https://content.foodbankscanada.ca/wordpress/2025/07/HungerCount-2019_FINAL.pdf
+2019-03-01,Alberta,89821,Visits in March,https://content.foodbankscanada.ca/wordpress/2025/07/HungerCount-2019_FINAL.pdf
+2019-03-01,Saskatchewan,37216,Visits in March,https://content.foodbankscanada.ca/wordpress/2025/07/HungerCount-2019_FINAL.pdf
+2019-03-01,Manitoba,82067,Visits in March,https://content.foodbankscanada.ca/wordpress/2025/07/HungerCount-2019_FINAL.pdf
+2019-03-01,Ontario,339613,Visits in March,https://content.foodbankscanada.ca/wordpress/2025/07/HungerCount-2019_FINAL.pdf
+2019-03-01,Quebec,345184,Visits in March,https://content.foodbankscanada.ca/wordpress/2025/07/HungerCount-2019_FINAL.pdf
+2019-03-01,New Brunswick,22625,Visits in March,https://content.foodbankscanada.ca/wordpress/2025/07/HungerCount-2019_FINAL.pdf
+2019-03-01,Nova Scotia,25629,Visits in March,https://content.foodbankscanada.ca/wordpress/2025/07/HungerCount-2019_FINAL.pdf
+2019-03-01,Prince Edward Island,2959,Visits in March,https://content.foodbankscanada.ca/wordpress/2025/07/HungerCount-2019_FINAL.pdf
+2019-03-01,Newfoundland and Labrador,10704,Visits in March,https://content.foodbankscanada.ca/wordpress/2025/07/HungerCount-2019_FINAL.pdf
+2019-03-01,Territories,6110,Visits in March,https://content.foodbankscanada.ca/wordpress/2025/07/HungerCount-2019_FINAL.pdf
+2021-03-01,British Columbia,131001,Visits in March,https://fbcblobstorage.blob.core.windows.net/wordpress/2022/02/50200_FBC_HungerCount2021_EN_final_embargoed_20211007.pdf
+2021-03-01,Alberta,116396,Visits in March,https://fbcblobstorage.blob.core.windows.net/wordpress/2022/02/50200_FBC_HungerCount2021_EN_final_embargoed_20211007.pdf
+2021-03-01,Saskatchewan,32827,Visits in March,https://fbcblobstorage.blob.core.windows.net/wordpress/2022/02/50200_FBC_HungerCount2021_EN_final_embargoed_20211007.pdf
+2021-03-01,Manitoba,65100,Visits in March,https://fbcblobstorage.blob.core.windows.net/wordpress/2022/02/50200_FBC_HungerCount2021_EN_final_embargoed_20211007.pdf
+2021-03-01,Ontario,419532,Visits in March,https://fbcblobstorage.blob.core.windows.net/wordpress/2022/02/50200_FBC_HungerCount2021_EN_final_embargoed_20211007.pdf
+2021-03-01,Quebec,474002,Visits in March,https://fbcblobstorage.blob.core.windows.net/wordpress/2022/02/50200_FBC_HungerCount2021_EN_final_embargoed_20211007.pdf
+2021-03-01,New Brunswick,20408,Visits in March,https://fbcblobstorage.blob.core.windows.net/wordpress/2022/02/50200_FBC_HungerCount2021_EN_final_embargoed_20211007.pdf
+2021-03-01,Nova Scotia,26090,Visits in March,https://fbcblobstorage.blob.core.windows.net/wordpress/2022/02/50200_FBC_HungerCount2021_EN_final_embargoed_20211007.pdf
+2021-03-01,Prince Edward Island,3241,Visits in March,https://fbcblobstorage.blob.core.windows.net/wordpress/2022/02/50200_FBC_HungerCount2021_EN_final_embargoed_20211007.pdf
+2021-03-01,Newfoundland and Labrador,10803,Visits in March,https://fbcblobstorage.blob.core.windows.net/wordpress/2022/02/50200_FBC_HungerCount2021_EN_final_embargoed_20211007.pdf
+2021-03-01,Territories,4597,Visits in March,https://fbcblobstorage.blob.core.windows.net/wordpress/2022/02/50200_FBC_HungerCount2021_EN_final_embargoed_20211007.pdf
+2024-03-01,British Columbia,225605,Visits in March,https://content.foodbankscanada.ca/wordpress/2024/10/hungercount-2024-en.pdf
+2024-03-01,Alberta,172832,Visits in March,https://content.foodbankscanada.ca/wordpress/2024/10/hungercount-2024-en.pdf
+2024-03-01,Saskatchewan,52877,Visits in March,https://content.foodbankscanada.ca/wordpress/2024/10/hungercount-2024-en.pdf
+2024-03-01,Manitoba,55487,Visits in March,https://content.foodbankscanada.ca/wordpress/2024/10/hungercount-2024-en.pdf
+2024-03-01,Ontario,736335,Visits in March,https://content.foodbankscanada.ca/wordpress/2024/10/hungercount-2024-en.pdf
+2024-03-01,Quebec,721318,Visits in March,https://content.foodbankscanada.ca/wordpress/2024/10/hungercount-2024-en.pdf
+2024-03-01,New Brunswick,32167,Visits in March,https://content.foodbankscanada.ca/wordpress/2024/10/hungercount-2024-en.pdf
+2024-03-01,Nova Scotia,39360,Visits in March,https://content.foodbankscanada.ca/wordpress/2024/10/hungercount-2024-en.pdf
+2024-03-01,Prince Edward Island,5435,Visits in March,https://content.foodbankscanada.ca/wordpress/2024/10/hungercount-2024-en.pdf
+2024-03-01,Newfoundland and Labrador,14236,Visits in March,https://content.foodbankscanada.ca/wordpress/2024/10/hungercount-2024-en.pdf
+2024-03-01,Territories,3985,Visits in March,https://content.foodbankscanada.ca/wordpress/2024/10/hungercount-2024-en.pdf
+2025-03-01,British Columbia,223340,Visits in March,https://foodbankscanada.ca/press-releases/canadas-2025-hungercount-shows-the-cost-of-inaction/
+2025-03-01,Alberta,210541,Visits in March,https://foodbankscanada.ca/press-releases/canadas-2025-hungercount-shows-the-cost-of-inaction/
+2025-03-01,Saskatchewan,55310,Visits in March,https://foodbankscanada.ca/press-releases/canadas-2025-hungercount-shows-the-cost-of-inaction/
+2025-03-01,Manitoba,64975,Visits in March,https://foodbankscanada.ca/press-releases/canadas-2025-hungercount-shows-the-cost-of-inaction/
+2025-03-01,Ontario,763756,Visits in March,https://foodbankscanada.ca/press-releases/canadas-2025-hungercount-shows-the-cost-of-inaction/
+2025-03-01,Quebec,746411,Visits in March,https://foodbankscanada.ca/press-releases/canadas-2025-hungercount-shows-the-cost-of-inaction/
+2025-03-01,New Brunswick,32343,Visits in March,https://foodbankscanada.ca/press-releases/canadas-2025-hungercount-shows-the-cost-of-inaction/
+2025-03-01,Nova Scotia,43421,Visits in March,https://foodbankscanada.ca/press-releases/canadas-2025-hungercount-shows-the-cost-of-inaction/
+2025-03-01,Prince Edward Island,5350,Visits in March,https://foodbankscanada.ca/press-releases/canadas-2025-hungercount-shows-the-cost-of-inaction/
+2025-03-01,Newfoundland and Labrador,15422,Visits in March,https://foodbankscanada.ca/press-releases/canadas-2025-hungercount-shows-the-cost-of-inaction/
+2025-03-01,Territories,4897,Visits in March,https://foodbankscanada.ca/press-releases/canadas-2025-hungercount-shows-the-cost-of-inaction/

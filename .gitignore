@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+__pycache__
+*.pyc
+public/data/*
+!public/data/.gitkeep
+.venv
+.vercel
+.env*
